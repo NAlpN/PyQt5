@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>Colorful Artificial Intelligence Logo.jpg</file>
+  </qresource>
+</RCC>
